@@ -8,7 +8,7 @@
         <h3>Приглашение</h3>
         <h4 style="margin-top: 10px; margin-bottom: 10px;">Название</h4>
 
-        <v-text-field label="Введите назва" v-model="name" hide-details="auto"></v-text-field>
+        <v-text-field label="Введите name" v-model="name" hide-details="auto"></v-text-field>
 
         <h4 style="text-align: left; margin-top: 10px; margin-bottom: 10px;">
           Выберите время мероприятия
